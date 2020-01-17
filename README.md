@@ -25,5 +25,5 @@ If you give the **value of 2 as an argument** to the procedure and you want to g
 ## You can return the collection with a sample code like this in Laravel.
 
 ```sh
-return DB::select('CALL PKATEGORISINAVLARI(127)');
+return DB::select('CALL STORE_PROC_NAME(127)');
 ```
