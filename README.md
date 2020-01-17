@@ -17,7 +17,7 @@ store procedure written for mysql that captures all subcategories of any of the 
 |          11 | CURVE                |      5 |
 
 
-# Considering you have a table like the one above,
-If you give the value of 2 as an argument to the procedure and you want to get the television and its subcategories `2,3,4,5,11` it will return its values.
+## Considering you have a table like the one above
+If you give the **value of 2 as an argument** to the procedure and you want to get the **television and its subcategories** `2,3,4,5,11` it will return its values.
 
-And so you can reach the account of the products that are linked to these categories.
+> And so you can reach all of the products that are linked to these categories.
