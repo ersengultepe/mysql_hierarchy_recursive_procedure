@@ -18,6 +18,6 @@ store procedure written for mysql that captures all subcategories of any of the 
 
 
 # Considering you have a table like the one above,
-If you give the value of 2 as an argument to the procedure and you want to get the television and its subcategories 2,3,4,5,11 it will return its values.
+If you give the value of 2 as an argument to the procedure and you want to get the television and its subcategories `2,3,4,5,11` it will return its values.
 
 And so you can reach the account of the products that are linked to these categories.
