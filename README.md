@@ -22,7 +22,7 @@ If you give the **value of 2 as an argument** to the procedure and you want to g
 
 > And so you can reach all of the products that are linked to these categories.
 
-##You can return the collection with a sample code like this in Laravel.
+## You can return the collection with a sample code like this in Laravel.
 
 ```sh
 return DB::select('CALL PKATEGORISINAVLARI(127)');
